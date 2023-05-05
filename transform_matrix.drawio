@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T11:52:10.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" version="20.7.4" etag="4mSMiY9OvziXrLnWBww0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T11:55:30.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" version="20.7.4" etag="2bZV7lueRORxkzZYFCMX" type="github">
   <diagram id="DbwLAbcMGJN-MZvlQW83" name="第 1 页">
     <mxGraphModel dx="1092" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="gdxeo9EOWTDeI5zvuP31-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdxeo9EOWTDeI5zvuP31-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="gdxeo9EOWTDeI5zvuP31-9" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdxeo9EOWTDeI5zvuP31-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="gdxeo9EOWTDeI5zvuP31-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdxeo9EOWTDeI5zvuP31-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gdxeo9EOWTDeI5zvuP31-15" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdxeo9EOWTDeI5zvuP31-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="gdxeo9EOWTDeI5zvuP31-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdxeo9EOWTDeI5zvuP31-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gdxeo9EOWTDeI5zvuP31-19" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdxeo9EOWTDeI5zvuP31-20" value="x" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="gdxeo9EOWTDeI5zvuP31-82" value="V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdxeo9EOWTDeI5zvuP31-83" value="&lt;h1&gt;Notes&lt;/h1&gt;&lt;p&gt;- GLM and DirectXMath have same matrix layout in memory.&lt;/p&gt;&lt;p&gt;- GLM uses column vector and DirectxMath uses row vector.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="330" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
